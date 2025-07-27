@@ -35,7 +35,6 @@ This project uses a custom OpenAI Gym environment and Deep Reinforcement Learnin
 
 ## 💡 Future Plans
 - Add support for multi-agent simulation
-- Integrate real-world financial data (e.g., from Yahoo Finance)
 - Improve training stability
 
 ## 🧠 Author
